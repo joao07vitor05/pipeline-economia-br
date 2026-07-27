@@ -169,12 +169,13 @@ Built in Power BI Desktop, connected directly to PostgreSQL database.
 **Page 1 — Visão Geral e Correlações:** 
 * **KPI Cards:** Latest metric values (IPCA, Selic, Câmbio, Dívida/PIB, IGP-M, Desemprego) with sparkline trends.
 * **Macro Correlations:** Multi-indicator time series charts comparing Selic x IPCA x IGP-M and PIB x Taxa de Desemprego.
+![Pagina 1](assets/Visão_geral.png)
 
 **Page 2 — Análise dos Indicadores Econômicos (Deep Dive):** 
 * **Interactive Selector:** Allows dynamic filtering by economic indicator (e.g., Câmbio, IPCA, Selic).
 * **Summary & Stats:** Key statistical metrics (Latest Value, Average, Max, Standard Deviation) alongside a qualitative summary table (Status, Trend, Volatility).
 * **Historical Analysis:** Normalized historical evolution chart and annual percentage variation bar chart.
-
+![Pagina 2](assets/Análise.png)
 ---
 
 ## Security
